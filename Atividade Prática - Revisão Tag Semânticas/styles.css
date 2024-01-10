@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    background-color: #E67085;
+}
+
+nav {
+    height: 50px;
+    width: 70vw;
+    background-color: #C8EFAD;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    background-color: #C9EBFF;
+}
+
+section {
+    height: 350px;
+    width: 60vw;
+    background-color: #03A8FF;
+}
+
+aside {
+    height: 150px;
+    width: 70vw;
+    margin-top: 40px;
+    background-color: #FBD0D6;
+}
+
+footer {
+    height: 200px;
+    background-color:#B27DF4;
+}
